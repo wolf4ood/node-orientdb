@@ -1,0 +1,13 @@
+{
+    "name": "nonde-orientdb"
+  , "description": "Nodejs http bindings for OrientDB"
+  , "version": "0.1.0"
+  , "author": "Enrico Risa <maggiolo00@gmail.com>"
+  , "keywords": ["orientdb", "data", "datastore", "nosql"]
+  , "dependencies": {}
+  , "directories": { "lib": "./lib/node-orientdb" }
+  , "repository": {
+        "type": "git"
+      , "url": "git://github.com/maggiolo00/node-orientdb.git"
+    }
+}
