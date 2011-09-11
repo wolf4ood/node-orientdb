@@ -1,4 +1,4 @@
-var OrientDB = require("../lib/node-orientdb.js");
+var OrientDB = require("../lib/orientdb.js");
 var database = new OrientDB("localhost",2480);
 
 database.on("open",function(chunk){
